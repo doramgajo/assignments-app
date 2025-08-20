@@ -1,5 +1,7 @@
 # Assignments
 
+![Java](https://img.shields.io/badge/Java-18-007396?logo=openjdk&logoColor=white)
+
 Assignments is an app that allows teachers to create assignments for studies.
 
 The project was built using **Java**, **Java Swing** and **SQL**
